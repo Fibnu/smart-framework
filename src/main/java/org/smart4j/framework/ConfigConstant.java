@@ -5,6 +5,8 @@ package org.smart4j.framework;
  * @create 2017-07-15 22:53
  *
  *      相关配置项常量
+ *
+ *   常量可以用接口封装
  **/
 public interface ConfigConstant {
 
